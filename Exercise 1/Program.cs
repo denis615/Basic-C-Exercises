@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Exercise_1
 {
@@ -14,10 +16,7 @@ namespace Exercise_1
             string lowerText = text.ToLower();
 
 
-
-
-            Console.WriteLine($" That Name is mentioned {CountAllTheTimesThisStringAppearsInThatString(lowerText, lowerName)} times in the text");
-        
+            Console.WriteLine($"{CountAllTheTimesThisStringAppearsInThatString(lowerText,lowerName)}");
 
 
     }
