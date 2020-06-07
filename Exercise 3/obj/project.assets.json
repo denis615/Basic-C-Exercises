@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Broj 18\\source\\repos\\C-Sharp Basic Exercises\\Exercise 3\\Exercise 3.csproj",
+      "projectUniqueName": "C:\\Users\\Broj 18\\source\\repos\\CP07\\Basic-C-Exercises\\Exercise 3\\Exercise 3.csproj",
       "projectName": "Exercise 3",
-      "projectPath": "C:\\Users\\Broj 18\\source\\repos\\C-Sharp Basic Exercises\\Exercise 3\\Exercise 3.csproj",
+      "projectPath": "C:\\Users\\Broj 18\\source\\repos\\CP07\\Basic-C-Exercises\\Exercise 3\\Exercise 3.csproj",
       "packagesPath": "C:\\Users\\Broj 18\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Broj 18\\source\\repos\\C-Sharp Basic Exercises\\Exercise 3\\obj\\",
+      "outputPath": "C:\\Users\\Broj 18\\source\\repos\\CP07\\Basic-C-Exercises\\Exercise 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Broj 18\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ C:\Users\Broj 18\source\repos\C-Sharp Basic Exercises\Exercise 3\obj\Debug\netco
 C:\Users\Broj 18\source\repos\C-Sharp Basic Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.pdb
 C:\Users\Broj 18\source\repos\C-Sharp Basic Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.genruntimeconfig.cache
 C:\Users\Broj 18\source\repos\C-Sharp Basic Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.csprojAssemblyReference.cache
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\bin\Debug\netcoreapp3.1\Exercise 3.exe
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\bin\Debug\netcoreapp3.1\Exercise 3.deps.json
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\bin\Debug\netcoreapp3.1\Exercise 3.runtimeconfig.json
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\bin\Debug\netcoreapp3.1\Exercise 3.runtimeconfig.dev.json
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\bin\Debug\netcoreapp3.1\Exercise 3.dll
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\bin\Debug\netcoreapp3.1\Exercise 3.pdb
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.csprojAssemblyReference.cache
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.AssemblyInfoInputs.cache
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.AssemblyInfo.cs
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.dll
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.pdb
+C:\Users\Broj 18\source\repos\CP07\Basic-C-Exercises\Exercise 3\obj\Debug\netcoreapp3.1\Exercise 3.genruntimeconfig.cache
