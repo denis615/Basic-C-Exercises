@@ -8,9 +8,9 @@ namespace Exercise_3
     {
         public enum Players
         {
-            Rock=0,
-            Paper=1,
-            Scissors=2,
+            Rock,
+            Paper,
+            Scissors,
         }
             
     }

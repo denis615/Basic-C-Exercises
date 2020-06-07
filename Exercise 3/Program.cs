@@ -13,7 +13,7 @@ namespace Exercise_3
             
        
             Random rnd = new Random();
-            int cpu = rnd.Next(2);
+                       
             while (true)
             {
             FirstMenu:
@@ -54,34 +54,26 @@ namespace Exercise_3
             Console.WriteLine("3.Scissors");
             string userChoosing = Console.ReadLine();
             PlayerType.Players player = new PlayerType.Players();
-            
-
-
-
-                string[] displayEnums = Enum.GetNames(typeof(PlayerType.Players));
-                
+               
             if (userChoosing == "1")
             {
                 player = PlayerType.Players.Rock;
                     Console.WriteLine($"You Have Chosen {player}");
-                    Console.WriteLine($"The Cpu has choosen {displayEnums[cpu]}");
-            }   
+            }
             if (userChoosing == "2")
             {
                 player = PlayerType.Players.Paper;
                     Console.WriteLine($"You Have Chosen {player}");
-                    Console.WriteLine($"The Cpu has choosen {displayEnums[cpu]}");
                 }
             if (userChoosing == "3")
             {
                 player = PlayerType.Players.Scissors;
                     Console.WriteLine($"You Have Chosen {player}");
-                    Console.WriteLine($"The Cpu has choosen {displayEnums[cpu]}");
                 }
 
            
 
-            
+            int cpu= rnd.Next(2);
 
             if ((int)player < cpu)
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rhJ9dmuyw3lFK7zIbu7PAkjl+7iYd5x0l0v6SE0+z0G/69kzRo922eLbfMZFtSenH1nVripfQ9pj3GnDypHZ2g==",
+  "dgSpecHash": "ipTzHj93/sNDKM7tsNIEIhx7urthszqcNH1wFLVUl0jn3fc6uuGLwIZs6IUBkK5zsmv+Psae1UOdPmD42qKaeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Broj 18\\source\\repos\\CP07\\Basic-C-Exercises\\Exercise 1\\Exercise 1.csproj",
+  "projectFilePath": "C:\\Users\\Broj 18\\source\\repos\\C-Sharp Basic Exercises\\Exercise 1\\Exercise 1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Broj 18\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
